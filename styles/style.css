@@ -693,7 +693,7 @@ section {
   white-space: nowrap;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 950px) {
   header {
     padding: 0;
   }
